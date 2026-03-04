@@ -6,55 +6,55 @@ const teacherData = [
   {
     name: '丁怡',
     files: [
-      { name: '匹配说明', type: 'doc', path: 'files/中心老师简介/实验班学生匹配说明 丁怡.docx' }
+      { name: '匹配说明', type: 'doc', path: 'files/实验班学生匹配说明 丁怡.docx' }
     ]
   },
   {
     name: '周世愚',
     files: [
-      { name: '个人介绍PDF', type: 'pdf', path: 'files/中心老师简介/导师个人介绍-周世愚.pdf' }
+      { name: '个人介绍PDF', type: 'pdf', path: 'files/导师个人介绍-周世愚.pdf' }
     ]
   },
   {
     name: '王麒植',
     files: [
-      { name: '个人介绍PDF', type: 'pdf', path: 'files/中心老师简介/导师个人介绍-王麒植.pdf' }
+      { name: '个人介绍PDF', type: 'pdf', path: 'files/导师个人介绍-王麒植.pdf' }
     ]
   },
   {
     name: '范翻',
     files: [
-      { name: '个人介绍PDF', type: 'pdf', path: 'files/中心老师简介/导师个人介绍-范翻.pdf' }
+      { name: '个人介绍PDF', type: 'pdf', path: 'files/导师个人介绍-范翻.pdf' }
     ]
   },
   {
     name: '陈怡心',
     files: [
-      { name: '个人介绍PDF', type: 'pdf', path: 'files/中心老师简介/导师个人介绍-陈怡心.pdf' }
+      { name: '个人介绍PDF', type: 'pdf', path: 'files/导师个人介绍-陈怡心.pdf' }
     ]
   },
   {
     name: '耿纯',
     files: [
-      { name: '个人介绍DOC', type: 'doc', path: 'files/中心老师简介/导师个人介绍_耿纯.docx' }
+      { name: '个人介绍DOC', type: 'doc', path: 'files/导师个人介绍_耿纯.docx' }
     ]
   },
   {
     name: '李慧青',
     files: [
-      { name: '个人介绍DOC', type: 'doc', path: 'files/中心老师简介/李慧青.docx' }
+      { name: '个人介绍DOC', type: 'doc', path: 'files/李慧青.docx' }
     ]
   },
   {
     name: '王斐然',
     files: [
-      { name: '个人介绍DOC', type: 'doc', path: 'files/中心老师简介/王斐然 导师个人介绍(1).docx' }
+      { name: '个人介绍DOC', type: 'doc', path: 'files/王斐然 导师个人介绍(1).docx' }
     ]
   },
   {
     name: '阮睿',
     files: [
-      { name: '匹配说明', type: 'pdf', path: 'files/中心老师简介/实验班学生匹配说明-阮睿.pdf' }
+      { name: '匹配说明', type: 'pdf', path: 'files/实验班学生匹配说明-阮睿.pdf' }
     ]
   }
 ];
@@ -153,3 +153,4 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
+
